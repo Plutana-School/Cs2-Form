@@ -1,0 +1,26 @@
+{
+  "Hard Dark": {
+    "bg": "https://example.com/hard-dark-bg.jpg",
+    "bg_color": "#0b0b0b",
+    "accent": "#ff3b30",
+    "text": "#e6e6e6",
+    "bone_color": "#00ff00",
+    "fov_color": "#ffff00"
+  },
+  "Light Theme": {
+    "bg": "https://example.com/light-theme-bg.jpg",
+    "bg_color": "#f0f0f0",
+    "accent": "#007aff",
+    "text": "#000000",
+    "bone_color": "#008000",
+    "fov_color": "#ffa500"
+  },
+  "Simple Remote": "https://example.com/simple-remote-bg.jpg",
+  "No Background": {
+    "bg_color": "#222222",
+    "accent": "#ff6600",
+    "text": "#ffffff",
+    "bone_color": "#00ff00",
+    "fov_color": "#ff0000"
+  }
+}
